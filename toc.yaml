@@ -1,0 +1,76 @@
+---
+toc:
+  properties:
+    subcollection: planning-analytics
+    category: analytics
+    audience: service
+    href: /docs/planning-analytics?topic=planning-analytics-about
+    console-page: /catalog/services/planning-analytics
+    product-page: https://ibm.com/products/planning-analytics
+    path: planning-analytics
+    label: Planning Analytics
+
+  entries:
+  - navgroup:
+      id: learn
+      topics:
+      - about.md
+      - limitations.md
+
+  - navgroup:
+      id: howto
+      topics:
+      - topicgroup:
+          label: Administering
+          topics:
+            - administer.md
+            - provisioning.md
+            - inviting_users_to_your_PA_SaaS_environment.md
+            - ODBC_connectivity.md
+            - api_connectivity.md
+            - adding_an_environment.md
+            - database_creation_resource_consumption.md
+      - topicgroup:
+          label: Enhancing security
+          topics:
+            - pa-architecture-workload-isolation.md
+            - securing_data_in_paas.md
+      - topicgroup:
+          label: High availability and disaster recovery
+          topics:
+            - ha_paas_high_avalability.md
+            - pa_bc_dr.md
+      - topicgroup:
+          label: Logging and monitoring
+          topics:
+            - pa_activity_tracking_events.md
+      - topicgroup:
+          label: Using Planning Analytics Workspace
+          topics:
+            - workinbooksandviews.md
+            - applications_plans_organize_work.md
+            - explore_scorecards.md
+            - model_in_paw.md
+            - visualizations_in_pa.md
+
+  - navgroup:
+      id: reference
+      topics:
+      - responsibilities.md
+      - link:
+            label: TM1 REST API reference
+            href: https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=cloud-tm1-rest-api
+
+  - navgroup:
+      id: tutorial
+      topics:
+      - link:
+            label: "IBM Demos: Tutorials, videos, and hands-on labs"
+            href: https://www.ibm.com/products/planning-analytics
+
+  - navgroup:
+      id: help
+      topics:
+      - link:
+            label: Getting started with IBM Cloud
+            href: https://www.ibm.com/cloud/get-started

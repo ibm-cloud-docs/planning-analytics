@@ -1,29 +1,29 @@
 ---
 copyright:
-  years: 2021
-lastupdated: "2021-04-1"
+  years: 2023
+lastupdated: "2023-01-31"
 
-keywords: 
+keywords:
 subcollection: planning-analytics
 
-content-type: tutorial
-services: 
-account-plan: lite 
-completion-time: 15m 
+content-type: how-to
+services:
+account-plan: lite
+completion-time: 15m
 ---
 
-{:codeblock: .codeblock}  
+{:codeblock: .codeblock}
 {:note: .note}
 {:pre: .pre}
 {:shortdesc: .shortdesc}
-{:screen: .screen}  
+{:screen: .screen}
 {:table: .aria-labeledby="caption"}
 {:tip: .tip}
 {:video: .video}
 {:external: target="_blank" .external}
-{:step: data-tutorial-type='step'} 
+{:step: data-tutorial-type='step'}
 
-# Visualizations in {{site.data.keyword.planninganalytics_full_notm}} 
+# Using visualizations in {{site.data.keyword.planninganalytics_short}}
 {: #Visualizations in {{site.data.keyword.planninganalytics_full_notm}}}
 {: step}
 You can use any of the visualizations that are described here to present data in {{site.data.keyword.planninganalytics_short}}.
@@ -31,8 +31,8 @@ You can use any of the visualizations that are described here to present data in
 
 To change the visualization type for any view in a book:
 1. Click the view.
-1. Click the `Change visualization` icon ![Change visualization icon](images/paw_visualization_carbon.jpg "Change visualization icon"). The label next to the icon indicates the type of visualization currently displayed for the view.
-1. Click `All visualizations`.
+1. Click the **Change visualization** icon ![Change visualization icon](images/paw_visualization_carbon.jpg "Change visualization icon"). The label next to the icon indicates the type of visualization currently displayed for the view.
+1. Click **All visualizations**.
 1. Select the visualization you want to apply to the view.
 
 **Note:** In some cases when you attempt to convert an Exploration to a visualization, you might receive an error indicating that **Data for member is missing**. When this happens, {{site.data.keyword.planninganalytics_short}} cannot construct the requested visualization.
@@ -50,11 +50,11 @@ When you right-click on a visualization member, you'll see the full abbreviated 
 **Hide** ![save_menu](images/paw_visualization_hide.jpg "Hide icon")
 
   Hide the member in the visualization.
-  
+
 **Unhide all** ![save_menu](images/paw_visualization_unhide_all.jpg "Unhide icon")
 
   Reveal all hidden members in the visualization.
-  
+
 **Drill up** ![save_menu](images/paw_visualization_drill_up.jpg "Drill up icon")
 
   Collapse the member to show its immediate parent.
@@ -72,7 +72,7 @@ To restore totals in the visualization, turn off the **Hide all totals** option.
 - [Create a visualization directly in a book](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=workspace-create-visualization-directly-in-book)
 
   You can build a visualization from scratch in a book, without having to convert an existing Exploration.
-  
+
 - [Visualizations available in {{site.data.keyword.planninganalytics_short}}](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=workspace-visualizations-available-in-planning-analytics)
 
   The following visualizations can be created in {{site.data.keyword.planninganalytics_short}}.

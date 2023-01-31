@@ -1,29 +1,29 @@
 ---
 copyright:
-  years: 2021
-lastupdated: "2021-04-1"
+  years: 2023
+lastupdated: "2023-01-31"
 
-keywords: 
+keywords:
 subcollection: planning-analytics
 
-content-type: tutorial
-services: 
-account-plan: lite 
-completion-time: 15m 
+content-type: how-to
+services:
+account-plan: lite
+completion-time: 15m
 ---
 
-{:codeblock: .codeblock}  
+{:codeblock: .codeblock}
 {:note: .note}
 {:pre: .pre}
 {:shortdesc: .shortdesc}
-{:screen: .screen}  
+{:screen: .screen}
 {:table: .aria-labeledby="caption"}
 {:tip: .tip}
 {:video: .video}
 {:external: target="_blank" .external}
-{:step: data-tutorial-type='step'} 
+{:step: data-tutorial-type='step'}
 
-# Model in {{site.data.keyword.planninganalytics_full_notm}}
+# Modeling in {{site.data.keyword.planninganalytics_short}}
 {: #Model in Planning Analytics Workspace}
 {: step}
 IBM® Planning Analytics Workspace includes a modeling environment that you can use to model user data with cubes, dimensions, hierarchies, attributes, and security for IBM Planning Analytics.
@@ -84,7 +84,7 @@ Hierarchies conform to OLAP Industry standards. {{site.data.keyword.planninganal
 - [The modeler role](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=mipaw-modeler-role)
 
   If you are enabled as an Administrator or a Modeler in {{site.data.keyword.planninganalytics_short}}, you can design dimensions, hierarchies, views, and attributes to define the business logic for your application.
-  
+
 - [Steps to building a model](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=mipaw-steps-building-model)
 
   You design a model in response to a business need. For example, a company wants to plan its expenses for the next 12 months by expense line. The company collects the information from a number of departments that are spread across a wide geographical area.
@@ -100,7 +100,7 @@ Hierarchies conform to OLAP Industry standards. {{site.data.keyword.planninganal
 - [Rules](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=mipaw-rules)
 
   You can create complex data calculations in {{site.data.keyword.planninganalytics_short}} with business rules.
-  
+
 - [Configure drill-through to reveal detailed data](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=mipaw-configure-drill-through-reveal-detailed-data)
 
   You can associate a cube cell with extra data, which can provide underlying detail for the cell or other information relevant to the cell. When you complete the configuration that is required to establish this association, users can drill through to the additional data directly from an Exploration view.
@@ -108,7 +108,7 @@ Hierarchies conform to OLAP Industry standards. {{site.data.keyword.planninganal
 - [Object security](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=mipaw-object-security)
 
   Modelers manage the security for cubes, dimensions, and processes in the settings editor, and security for dimension members in the security view in the dimension editor. You can assign security to these objects for any non-administrative user group in Planning Analytics Workspace.
-  
+
 - [TurboIntegrator processes](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=mipaw-turbointegrator-processes)
 
   {{site.data.keyword.planninganalytics_short}} provides the ability to create, edit, and execute TurboIntegrator processes.

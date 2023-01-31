@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 2021
-lastupdated: "2021-04-1"
+  years: 2023
+lastupdated: "2023-01-31"
 
 keywords: 
 subcollection: planning-analytics
@@ -26,12 +26,12 @@ completion-time: 15m
 # Creating a database
 {: #Creating a database}
 {: step}
-{{site.data.keyword.planninganalytics_short}} users can create their own TM1 databases by using Planning Analytics Workspace Administration.
+{{site.data.keyword.planninganalytics_short}} users can create their own Planning Analytics databases by using Planning Analytics Workspace Administration.
 {: shortdesc}
 
-An outage is not required to create a new TM1 database.
+An outage is not required to create a new database.
 
-All TM1 databases are created in the prod folder. The default database is named TM1.
+All Planning Analytics databases are created in the prod folder. The default database is named TM1.
 
 If the prod folder doesn't exist, it is created along with the Data and Logs folders, and the tm1s.cfg file. You can use the folder as is, or change the directory structure to organize the TM1 objects in a specific way. By default, all objects reside in the base directory. If the prod folder with valid subfolders and the tm1s.cfg file already exists, the folder is used for the new database.
 

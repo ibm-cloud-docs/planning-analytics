@@ -1,29 +1,30 @@
 ---
 copyright:
-  years: 2021
-lastupdated: "2021-10-8"
+  years: 2023
+lastupdated: "2023-01-31"
 
-keywords: 
+keywords:
 subcollection: planning-analytics
 
-content-type: tutorial
-services: 
+content-type: how-to
+services:
 account-plan: lite, enterprise
-completion-time: 15m 
+completion-time: 15m
 ---
 
-{:codeblock: .codeblock}  
+{:codeblock: .codeblock}
 {:note: .note}
 {:pre: .pre}
 {:shortdesc: .shortdesc}
-{:screen: .screen}  
+{:screen: .screen}
 {:table: .aria-labeledby="caption"}
 {:tip: .tip}
 {:video: .video}
 {:external: target="_blank" .external}
-{:step: data-tutorial-type='step'} 
+{:step: data-tutorial-type='step'}
 
-# Explore scorecards
+# Exploring scorecards
+
 {: #Explore scorecards}
 {: step}
 You can use different approaches to add data to your metrics cube.

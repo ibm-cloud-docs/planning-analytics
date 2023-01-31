@@ -1,27 +1,27 @@
 ---
 copyright:
-  years: 2021
-lastupdated: "2021-11-23"
+  years: 2023
+lastupdated: "2023-01-31"
 
-keywords: 
+keywords:
 subcollection: planning-analytics
 
 content-type: tutorial
-services: 
+services:
 account-plan: lite, enterprise
-completion-time: 15m 
+completion-time: 15m
 ---
 
-{:codeblock: .codeblock}  
+{:codeblock: .codeblock}
 {:note: .note}
 {:pre: .pre}
 {:shortdesc: .shortdesc}
-{:screen: .screen}  
+{:screen: .screen}
 {:table: .aria-labeledby="caption"}
 {:tip: .tip}
 {:video: .video}
 {:external: target="_blank" .external}
-{:step: data-tutorial-type='step'} 
+{:step: data-tutorial-type='step'}
 
 # Known issues and limitations
 {: #Known issues and limitations}
@@ -33,7 +33,7 @@ Known issues and limitations includes a list of known issues and a list of funct
 This Beta is open only to partners that have received an invitation and have accepted the terms of the Beta.
 
 ## V11 to V12 conversion
-The contents of the **Applications** folder are not included. 
+The contents of the **Applications** folder are not included.
 
 ## Model size restrictions
 The Enterprise instances have a maximum of 64 GB of RAM and 400 GB of storage space. This quota is for the combination of all databases in the production and non-production environments.
@@ -42,7 +42,7 @@ The Enterprise instances have a maximum of 64 GB of RAM and 400 GB of storage sp
 - Only drag and drop (browse) is available.
 - Limited to files smaller than 500 MB.
 - Limited to CSV or TXT files.
-- You can create flat files through a TI process. You cannot retrieve the files from the repository. 
+- You can create flat files through a TI process. You cannot retrieve the files from the repository.
 
 ## REST API connection
 The REST API will not be exposed for the Beta.
@@ -110,9 +110,4 @@ The following worksheet functions are not available for this release:
 - DBRA
 - TM1USER
 - TABDIM
-- TM1ELLIST 
-
-
-
-
-
+- TM1ELLIST
