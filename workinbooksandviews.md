@@ -41,10 +41,6 @@ Books contain related data in the form of views, websheets, scorecards, visualiz
 
   You can use any of the visualizations that are described here to present data in {{site.data.keyword.planninganalytics_short}}.
 
-- [Visualizations in {{site.data.keyword.planninganalytics_short}} Classic](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wibv-visualizations-in-planning-analytics-workspace-classic)
-
-  You can use any of the visualizations that are described here to present data in {{site.data.keyword.planninganalytics_short}} Classic.
-
 - [Forecasting](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wibv-forecasting)
 
   Use forecasting in {{site.data.keyword.planninganalytics_short}} to discover and model trend, seasonality, and time dependence in data.

@@ -38,7 +38,7 @@ Access to sections in an application or steps in a plan are controlled by {{site
 Application and plan security is applied only to {{site.data.keyword.planninganalytics_short}} user groups and roles. There are no links or dependencies to TM1 object security. It is the responsibility of the {{site.data.keyword.planninganalytics_short}} administrator to ensure that the {{site.data.keyword.planninganalytics_short}} user groups have the requisite TM1® security permissions to view and edit assets.
 {: important}
 
-When you log in to {{site.data.keyword.planninganalytics_short}}, your applications and plans are visible on the `Your Applications` tab at the bottom of the Home page. Applications are identified by the Application ![Application icon](images/paw_application_icon.jpg "Application icon") icon, while plans show the Plan ![Plan icon](images/paw_plan_icon.jpg "Plan icon") icon.
+When you log in to {{site.data.keyword.planninganalytics_short}}, your applications and plans are visible on the **Your Applications** tab at the bottom of the Home page. Applications are identified by the Application ![Application icon](images/paw_application_icon.jpg "Application icon") icon, while plans show the Plan ![Plan icon](images/paw_plan_icon.jpg "Plan icon") icon.
 
 ![Home page](images/paw_apps_plans_on_home_page.jpg "Home page")
 
