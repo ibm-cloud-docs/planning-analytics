@@ -36,7 +36,6 @@ Users can update their personal data directly within {{site.data.keyword.PA_SaaS
 Data is encryted in transit via mutual TLS connections.
 Data is encrypted at rest by the Amazon RDS, Amazon MemoryDB for Redis, and Mongo Atlas services.
 
-
 ### Deleting {{site.data.keyword.PA_SaaS_short}} instances
 {: #service-delete}
 

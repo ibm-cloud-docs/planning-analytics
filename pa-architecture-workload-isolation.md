@@ -1,38 +1,23 @@
 ---
 copyright:
   years: 2023
-lastupdated: "2023-01-31"
+lastupdated: "2023-02-09"
 
 keywords: architecture, workload isolation
 subcollection: planning-analytics
 
 content-type: howto
-services:
-account-plan: lite
 completion-time: 15m
 
 ---
+
 {{site.data.keyword.attribute-definition-list}}
-{:codeblock: .codeblock}
-{:note: .note}
-{:pre: .pre}
-{:shortdesc: .shortdesc}
-{:screen: .screen}
-{:table: .aria-labeledby="caption"}
-{:tip: .tip}
-{:video: .video}
-{:external: target="_blank" .external}
-{:step: data-tutorial-type='step'}
 
 # Learning about {{site.data.keyword.PA_SaaS_short}} architecture and workload isolation
-
 {: #pa_architecture_and_workload_isolation}
-{: step}
 
 Planning Analytics Workspace within {{site.data.keyword.planninganalytics_short}} employs strict access controls, both at the tenant and user level, which ensures that information from one tenant is not accessible from another.
 {: shortdesc}
-
-
 
 ## Planning Analytics as a Service architecture
 {: #architecture}

@@ -30,7 +30,6 @@ subcollection: planning-analytics
 
 See [Shared responsibilities for IBM products.](/docs/overview?topic=overview-shared-responsibilities) for details on responsibility ownership between {{site.data.keyword.IBM_notm}} and the customer when using {{site.data.keyword.PA_SaaS_short}}.
 
-
 ## Disaster recovery strategy
 {: #bc-dr-strategy}
 

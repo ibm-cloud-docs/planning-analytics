@@ -14,7 +14,6 @@ subcollection: #planning-analytics
 <!-- Make sure that the AT events file has the H1 ID set to: {: #at_events} -->
 
 # Auditing events for {{site.data.keyword.PA_SaaS_short}}
-
 {: #at_events}
 
 As a security officer, auditor, or manager, you can use the {{site.data.keyword.at_full}} service to track how users and applications interact with the {{site.data.keyword.PA_SaaS_short}} service in {{site.data.keyword.cloud_notm}}.
@@ -44,7 +43,6 @@ The following table lists the actions that generate an event for managing servic
 | `planning-analytics.key.delete` | An event is generated when an API key that is associated with a service instance is deleted from the *Service credentials* section of the service instance UI. |
 {: caption="Table 2. Actions that generate service credentials events" caption-side="bottom"}
 
-
 ## List of service events
 {: #at_actions}
 
@@ -55,8 +53,7 @@ The following table lists the {{site.data.keyword.PA_SaaS_short}} actions that g
 | `planning-analytics.user.login` | An event is generated when a user logs into the Planning Analytics Workspace instance.   |
 | `planning-analytics.user.logout` | An event is generated when a user logs out of the Planning Analytics Workspace instance.   |
 | `planning-analytics.user-environment.switch` | An event is generated when a user switches to a different Planning Analytics Workspace environment.   |
-{: caption="Table 1. Actions that generate service events" caption-side="bottom"}
-
+{: caption="Table 3. Actions that generate service events" caption-side="bottom"}
 
 ## Viewing events
 {: #at_ui}
