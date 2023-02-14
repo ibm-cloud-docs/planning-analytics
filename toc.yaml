@@ -44,6 +44,7 @@ toc:
           label: Logging and monitoring
           topics:
             - pa_activity_tracking_events.md
+            - logging_paas.md
       - topicgroup:
           label: Using Planning Analytics Workspace
           topics:
