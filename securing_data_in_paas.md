@@ -4,7 +4,7 @@ copyright:
   years: 2023
 lastupdated: "2023-01-31"
 
-keywords:
+keywords: data, securing data, data security, encryption
 
 subcollection: planning-analytics
 
@@ -27,14 +27,14 @@ To ensure that you can securely manage your data when you use {{site.data.keywor
 
 {{site.data.keyword.PA_SaaS_short}} stores personal data in one of three data stores:
 
-- Amazon RDS: May contain user's email address, first name, last name, and phone number
+- Amazon Relational Database Service (RDS): May contain user's email address, first name, last name, and phone number
 - Amazon MemoryDB for Redis: May contain user's email address
-- Mongo Atlas: May contain user's email address
+- MongoDB Atlas: May contain user's email address
 
 Users can update their personal data directly within {{site.data.keyword.PA_SaaS_short}}.
 
-Data is encryted in transit via mutual TLS connections.
-Data is encrypted at rest by the Amazon RDS, Amazon MemoryDB for Redis, and Mongo Atlas services.
+Data is encrypted in transit via mutual TLS connections.
+Data is encrypted at rest by the Amazon RDS, Amazon MemoryDB for Redis, and MongoDB Atlas services.
 
 ### Deleting {{site.data.keyword.PA_SaaS_short}} instances
 {: #service-delete}
