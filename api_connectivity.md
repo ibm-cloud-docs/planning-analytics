@@ -63,7 +63,7 @@ In this section, you will use the API key you retrieved to retrieve an access to
 In this section, you will access the OData API, and retrieve a list of all instances in a data center, and their accompanying ID's. To gain direct access to a specific instance, you will require the service unique id.
 
 1. Retrieve the server ID's.
-    - Enter this command into the terminal: `curl https://us-east.planning-analytics.cloud.ibm.com/api/v0/tm1Servers -H "Authorization: Bearer $ACCESS_TOJEN" -sf | jq -C`.
+    - Enter this command into the terminal: `curl https://us-east.planning-analytics.cloud.ibm.com/api/v0/tm1Servers -H "Authorization: Bearer $ACCESS_TOKEN" -sf | jq -C`.
 
     - The planning analytics URL will vary depending on the data centre you provisioned your service
 at. The URL used above is for the Washington DC data Centre. If you are not certain of the URL you
@@ -76,7 +76,7 @@ should use, you can retrieve it from your service launch page.
 In this section, you will retrieve a list of active databases.
 
 1. Retrieve a list of active databases.
-    - Enter this command into the terminal: `curl https://us-east.planning-analytics.cloud.ibm.com/api/4WBG0PXNT6U0F/v0/tm1Servers -H "Authorization: Bearer $ACCESS_TOJEN" -sf | jq -C`.
+    - Enter this command into the terminal: `curl https://us-east.planning-analytics.cloud.ibm.com/api/4WBG0PXNT6U0F/v0/tm1Servers -H "Authorization: Bearer $ACCESS_TOKEN" -sf | jq -C`.
     - Replace the instance ID used above (`4WBG0PXNT6U0F`) with the instane ID for the server you want to access.
 
 2. The server will return a list of all active databases.
@@ -86,7 +86,7 @@ In this section, you will retrieve a list of active databases.
 In this section, you will retrive the cubes from a database.
 
 1. Retrieve the cubes from a database:
-    - Enter this command into the terminal: `curl https://us-east.planning-analytics.cloud.ibm.com/api/4WBG0PXNT6U0F/v0/tm1/IssueReports/Cubes -H "Authorization: Bearer $ACCESS_TOJEN" -sf | jq -C`.
+    - Enter this command into the terminal: `curl https://us-east.planning-analytics.cloud.ibm.com/api/4WBG0PXNT6U0F/v0/tm1/IssueReports/Cubes -H "Authorization: Bearer $ACCESS_TOKEN" -sf | jq -C`.
 
     - Replace the database used above (`IssueReports/Cubes`) with the database you wish to retrive cubes from.
 
