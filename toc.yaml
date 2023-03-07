@@ -9,6 +9,7 @@ toc:
     product-page: https://ibm.com/products/planning-analytics
     path: planning-analytics
     label: Planning Analytics
+    service-name: Planning Analytics as a Service
 
   entries:
   - navgroup:
@@ -16,6 +17,7 @@ toc:
       topics:
       - about.md
       - limitations.md
+      - release-notes.md
 
   - navgroup:
       id: howto
