@@ -23,7 +23,7 @@ Use these release notes to learn about the latest updates to {{site.data.keyword
 {: shortdesc}
 
 <!--
-## How should I set up my page?
+## How should I set up my release notes page?
 {: #relnotes-page-setup}
 {: release-note}
 
@@ -67,11 +67,6 @@ Planning Analytics for Microsoft Excel
 :   Planning Analytics for Microsoft Excel within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.83.
 
 :   For more information on new and changed features in Planning Analytics for Microsoft Excel, see [What's new in Planning Analytics for Microsoft Excel](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=excel-2083-feature-updates-february-10-2023). To see which issues were fixed in this Planning Analytics for Microsoft Excel update, review the [Planning Analytics for Microsoft Excel 2.0.83 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_for_msexcel_2083_sc.pdf).
-
-Planning Analytics Engine
-:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.1.
-
-:   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 2.0.1 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_201-1.pdf).
 
 ## 31 January 2023
 
