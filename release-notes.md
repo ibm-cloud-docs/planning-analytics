@@ -46,7 +46,7 @@ Use a definition list to highlight each item covered in the release. Each entry 
 
 Because this content is single-sourced and pulled into the Status UI, you can only include the following markup in your definition list entries: paragraph, ordered list item, unordered list item, code phrase, links, keyrefs, bold, and italics. Any other markup is not supported.
 
-For detailed guidance on what to include on this page, see [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
+For guidance on what to include on this page, see [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
 
 ## 28 February 2023
 
