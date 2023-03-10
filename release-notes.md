@@ -63,12 +63,12 @@ Planning Analytics Spreadsheet Services update
 
 :   For more information on new and changed features in Planning Analytics Spreadsheet Services/TM1 Web, see [What's new in Planning Analytics Spreadsheet Services](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=web-2083-feature-updates-february-17-2023). To see which issues were fixed in this Planning Analytics Spreadsheet Services update, review the [Planning Analytics Spreadsheet Services 2.0.83 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_spreadsheet_services_2083_sc-1.pdf).
 
-Planning Analytics for Microsoft Excel
+Planning Analytics for Microsoft Excel update
 :   Planning Analytics for Microsoft Excel within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.83.
 
 :   For more information on new and changed features in Planning Analytics for Microsoft Excel, see [What's new in Planning Analytics for Microsoft Excel](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=excel-2083-feature-updates-february-10-2023). To see which issues were fixed in this Planning Analytics for Microsoft Excel update, review the [Planning Analytics for Microsoft Excel 2.0.83 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_for_msexcel_2083_sc.pdf).
 
-Planning Analytics Engine
+Planning Analytics Engine update
 :   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.0.1.
 
 :   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.0.1 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_1201.pdf).
