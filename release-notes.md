@@ -71,7 +71,7 @@ Planning Analytics for Microsoft Excel
 Planning Analytics Engine
 :   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.1.
 
-To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 2.0.1 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_201-1.pdf).
+:   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 2.0.1 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_201-1.pdf).
 
 
 ## 31 January 2023
