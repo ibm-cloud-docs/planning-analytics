@@ -27,7 +27,7 @@ Use these release notes to learn about the latest updates to {{site.data.keyword
 {: #relnotes-page-setup}
 {: release-note}
 
-* Use "Release notes for xxx" as your title, where xxx is the short name with no trademarks.
+* Use "Release notes for xxx" as your page title, where xxx is the short name with no trademarks.
 * Name the file `release-notes.md` for URL readability.
 * If you require multiple release notes files, group under a "Release Notes" topicgroup and use a unique name for each file.
 * Add each release as an H2 or H3, depending on how frequently your service releases updates. If you release monthly or less, use an H2 for each entry. If you release several times a month, use an H2 with the month to group each H3 entry in that month.
@@ -35,7 +35,7 @@ Use these release notes to learn about the latest updates to {{site.data.keyword
 * Use a definition list entry for each update, change, or new item in that release.
 * Set the `release-note` content type attribute definition at the top of your file.
 * Set the `release-note` content type attribute on a new line following each H2 release entry.
-* Do not repeat task steps. Summarize and link off to task topic.
+* Do not repeat task steps. Summarize and link to task topic.
 * Do not include security bulletins or maintenance notifications in this file. There is a separate process for these types of notifications.
 
 ## What should I include in my release note entries?
@@ -72,7 +72,6 @@ Planning Analytics Engine
 :   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.1.
 
 :   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 2.0.1 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_201-1.pdf).
-
 
 ## 31 January 2023
 
