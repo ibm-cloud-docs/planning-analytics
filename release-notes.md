@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-02-28"
+lastupdated: "2023-03-22"
 
 keywords: Planning Analytics release notes
 
@@ -19,7 +19,7 @@ content-type: release-note
 
 {: #planning-analytics-relnotes}
 
-Use these release notes to learn about the latest updates to {{site.data.keyword.PA_SaaS_short}}, grouped by date. Release notes are available for a minimum of three years.
+Use these release notes to learn about the latest updates to {{site.data.keyword.PA_SaaS_short}}, grouped by date. Release notes are available for a minimum of three years. All updates to components within {{site.data.keyword.PA_SaaS_short}} are cumulative and include new features and fixes from prior releases.
 {: shortdesc}
 
 <!--
@@ -46,7 +46,17 @@ Use a definition list to highlight each item covered in the release. Each entry 
 
 Because this content is single-sourced and pulled into the Status UI, you can only include the following markup in your definition list entries: paragraph, ordered list item, unordered list item, code phrase, links, keyrefs, bold, and italics. Any other markup is not supported.
 
-For guidance on what to include on this page, see [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
+For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
+
+## 22 March 2023
+
+{: #subcollection-mar2223}
+{: release-note}
+
+Planning Analytics Workspace update
+:   Planning Analytics Workspace within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.85.
+
+:   For more information on new and changed features in Planning Analytics Workspace 2.0.85, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipaw-2085-whats-new-march-22-2023). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.85 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2085_sc.pdf).
 
 ## 28 February 2023
 
