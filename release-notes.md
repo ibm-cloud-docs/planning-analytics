@@ -12,6 +12,7 @@ content-type: release-note
 
 ---
 
+{: release-note: data-hd-content-type='release-note'}
 {{site.data.keyword.attribute-definition-list}}
 <!-- You must add the release-note content type in your attribute definitions AND to each release note H2. This will ensure that the release note entry is pulled into the notifications library. -->
 
