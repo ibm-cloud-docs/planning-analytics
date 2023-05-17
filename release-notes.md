@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-05-16"
+lastupdated: "2023-05-17"
 
 keywords: Planning Analytics release notes
 
@@ -49,8 +49,7 @@ Because this content is single-sourced and pulled into the Status UI, you can on
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
 
-
-<!--## 16 May 2023
+## 16 May 2023
 
 {: #subcollection-may1623}
 {: release-note}
@@ -66,7 +65,7 @@ Planning Analytics Spreadsheet Services update
 :   For more information on new and changed features in Planning Analytics Spreadsheet Services/TM1 Web, see [What's new in Planning Analytics Spreadsheet Services](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnitw-2087-feature-updates-may-12-2023). To see which issues were fixed in this Planning Analytics Spreadsheet Services update, review the [Planning Analytics Spreadsheet Services 2.0.87 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_spreadsheet_services_2087_sc.pdf).
 
 Planning Analytics Engine update
-:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.2.0. -->
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.2.0.
 
 
 ## 18 April 2023
