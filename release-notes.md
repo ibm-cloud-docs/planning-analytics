@@ -14,7 +14,7 @@ content-type: release-note
 
 {: release-note: data-hd-content-type='release-note'}
 {{site.data.keyword.attribute-definition-list}}
-<!-- You must add the release-note content type in your attribute definitions AND to each release note H2. This will ensure that the release note entry is pulled into the notifications library. -->
+<!-- You must add release-note content type in your attribute definitions AND to each release note H2. This will ensure that the release note entry is pulled into the notifications library. -->
 
 # Release notes for {{site.data.keyword.PA_SaaS_short}}
 
@@ -49,7 +49,7 @@ Because this content is single-sourced and pulled into the Status UI, you can on
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
 
-## 16 May 2023
+## 17 May 2023
 
 {: #subcollection-may1623}
 {: release-note}
