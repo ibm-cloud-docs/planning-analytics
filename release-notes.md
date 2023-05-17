@@ -57,7 +57,7 @@ For guidance on what to include on this page, review [Release notes guidance](ht
 Planning Analytics Workspace update
 :   Planning Analytics Workspace within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.87.
 
-:   For more information on new and changed features in Planning Analytics Workspace 2.0.87, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipaw-2087-whats-new-may-16-2023). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.86 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2087_sc.pdf).
+:   For more information on new and changed features in Planning Analytics Workspace 2.0.87, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipaw-2087-whats-new-may-16-2023). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.87 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2087_sc.pdf).
 
 Planning Analytics Spreadsheet Services update
 :   Planning Analytics Spreadsheet Services/TM1 Web within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.87.
