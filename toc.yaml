@@ -16,7 +16,6 @@ toc:
       id: learn
       topics:
       - about.md
-      - limitations.md
       - release-notes.md
 
   - navgroup:
