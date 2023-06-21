@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-05-17"
+lastupdated: "2023-06-21"
 
 keywords: Planning Analytics release notes
 
@@ -48,6 +48,23 @@ Use a definition list to highlight each item covered in the release. Each entry 
 Because this content is single-sourced and pulled into the Status UI, you can only include the following markup in your definition list entries: paragraph, ordered list item, unordered list item, code phrase, links, keyrefs, bold, and italics. Any other markup is not supported.
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
+
+## 21 June 2023
+{: #subcollection-jun2123}
+{: release-note}
+
+Planning Analytics Workspace update
+:   Planning Analytics Workspace within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.88.
+
+:   For more information on new and changed features in Planning Analytics Workspace 2.0.88, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=workspace-2088-whats-new-june-21-2023). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.88 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2088_sc.pdf).
+
+Planning Analytics Spreadsheet Services update
+:   Planning Analytics Spreadsheet Services/TM1 Web within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.88.
+
+:   For more information on new and changed features in Planning Analytics Spreadsheet Services/TM1 Web version 2.0.88, see [What's new in Planning Analytics Spreadsheet Services](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=web-2088-feature-updates-june-16-2023). To see which issues were fixed in this Planning Analytics Spreadsheet Services update, review the [Planning Analytics Spreadsheet Services 2.0.88 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_spreadsheet_services_2088_sc.pdf).
+
+Planning Analytics Engine update
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} is version 12.2.0.
 
 ## 16 May 2023
 {: #subcollection-may1623}
