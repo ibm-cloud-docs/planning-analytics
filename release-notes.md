@@ -50,7 +50,7 @@ Because this content is single-sourced and pulled into the Status UI, you can on
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
 
 ## 21 June 2023
-{: #subcollection-jun2123}
+{: #planning-analytics-jun2123}
 {: release-note}
 
 Planning Analytics Workspace update
@@ -67,7 +67,7 @@ Planning Analytics Engine update
 :   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} is version 12.2.0.
 
 ## 16 May 2023
-{: #subcollection-may1623}
+{: #planning-analytics-may1623}
 {: release-note}
 
 Planning Analytics Workspace update
@@ -85,7 +85,7 @@ Planning Analytics Engine update
 
 
 ## 18 April 2023
-{: #subcollection-apr1823}
+{: #planning-analytics-apr1823}
 {: release-note}
 
 Planning Analytics Workspace update
@@ -104,7 +104,7 @@ Planning Analytics Engine update
 :   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.1.1 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_1211.pdf).
 
 ## 22 March 2023
-{: #subcollection-mar2223}
+{: #planning-analytics-mar2223}
 {: release-note}
 
 Planning Analytics Workspace update
@@ -113,7 +113,7 @@ Planning Analytics Workspace update
 :   For more information on new and changed features in Planning Analytics Workspace 2.0.85, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipaw-2085-whats-new-march-22-2023). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.85 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2085_sc.pdf).
 
 ## 28 February 2023
-{: #subcollection-feb2823}
+{: #planning-analytics-feb2823}
 {: release-note}
 
 Planning Analytics Workspace update
@@ -137,7 +137,7 @@ Planning Analytics Engine update
 :   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.0.1 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_1201.pdf).
 
 ## 31 January 2023
-{: #subcollection-jan3123}
+{: #planning-analytics-jan3123}
 {: release-note}
 
 Introducing {{site.data.keyword.PA_SaaS_short}}.
