@@ -88,6 +88,6 @@ In this section, you will retrive the cubes from a database.
 1. Retrieve the cubes from a database:
     - Enter this command into the terminal: `curl https://us-east.planning-analytics.cloud.ibm.com/api/4WBG0PXNT6U0F/v0/tm1/IssueReports/Cubes -H "Authorization: Bearer $ACCESS_TOKEN" -sf | jq -C`.
 
-    - Replace the database used above (`IssueReports/Cubes`) with the database you wish to retrive cubes from.
+    - Replace the database used above (`IssueReports`) with the database you wish to retrive cubes from.
 
 2. The server will return a list of cubes that are within the database.
