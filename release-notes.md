@@ -141,5 +141,4 @@ Planning Analytics Engine update
 {: release-note}
 
 Introducing {{site.data.keyword.PA_SaaS_short}}.
-
-{{site.data.keyword.PA_SaaS_short}} is a a fully-managed planning, analytics, profitability, modeling, and reporting solution. These applications are supported by the Planning Analytics in-memory database that provides on-demand analytics of complex multidimensional data in real time.
+:   {{site.data.keyword.PA_SaaS_short}} is a a fully-managed planning, analytics, profitability, modeling, and reporting solution. These applications are supported by the Planning Analytics in-memory database that provides on-demand analytics of complex multidimensional data in real time.
