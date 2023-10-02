@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2023
-lastupdated: "2023-01-31"
+lastupdated: "2023-10-01"
 
 keywords:
 subcollection: planning-analytics
@@ -35,7 +35,7 @@ When you receive initial notification that a {{site.data.keyword.PA_SaaS_short}}
 <!---[Administer users and groups](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=workspace-administer-users-groups)
 To administer users in {{site.data.keyword.PA_SaaS_short}}, you must be logged in to {{site.data.keyword.PA_SaaS_short}} as an **administrator**. If you have the administrator role and meet all of the requirements, you can invite people who are in the same organization (account) as you to become users in {{site.data.keyword.PA_SaaS_short}} on cloud or upload users to {{site.data.keyword.PA_SaaS_short}} Local.-->
 
-- [Administration taks unique to {{site.data.keyword.PA_SaaS_short}}](https://www.ibm.com/docs/en/planning-analytics/latest?topic=workspace-administration-capabilities-planning-analytics-as-service)
+- [Administration tasks unique to {{site.data.keyword.PA_SaaS_short}}](https://www.ibm.com/docs/en/planning-analytics/latest?topic=workspace-administration-capabilities-planning-analytics-as-service)
 
 Most administration tasks are common between Planning Analytics on Cloud and {{site.data.keyword.PA_SaaS_short}}. However, some tasks such as quota monitoring, environment management, and some aspects of database management, are unique to {{site.data.keyword.PA_SaaS_short}}.
 
