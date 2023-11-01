@@ -24,6 +24,7 @@ toc:
       - topicgroup:
           label: Administering
           topics:
+            - get_started_with_saas_console.md
             - administer.md
             - provisioning.md
             - inviting_users_to_your_PA_SaaS_environment.md
@@ -31,6 +32,7 @@ toc:
             - api_connectivity.md
             - adding_an_environment.md
             - database_creation_resource_consumption.md
+            - egress_ip_addresses.md
       - topicgroup:
           label: Enhancing security
           topics:

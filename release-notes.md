@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-10-05"
+lastupdated: "2023-10-30"
 
 keywords: Planning Analytics release notes
 
@@ -48,6 +48,28 @@ Use a definition list to highlight each item covered in the release. Each entry 
 Because this content is single-sourced and pulled into the Status UI, you can only include the following markup in your definition list entries: paragraph, ordered list item, unordered list item, code phrase, links, keyrefs, bold, and italics. Any other markup is not supported.
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
+
+## 30 October 2023
+{: #planning-analytics-jul2523}
+{: release-note}
+
+Planning Analytics Workspace update
+:   Planning Analytics Workspace within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.91.
+
+:   For more information on new and changed features in Planning Analytics Workspace, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=workspace-2091-whats-new-october-30-2023). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.91 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2091_sc-1.pdf).
+
+Planning Analytics for Microsoft Excel update
+:   Planning Analytics for Microsoft Excel within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.91.
+
+:   For more information on new and changed features in Planning Analytics for Microsoft Excel, see [What's new in Planning Analytics for Microsoft Excel](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=excel-2091-feature-updates-october-30-2023). To see which issues were fixed in this Planning Analytics for Microsoft Excel update, review the [Planning Analytics for Microsoft Excel 2.0.91 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_for_msexcel_2091_sc.pdf).
+
+Planning Analytics Spreadsheet Services update
+:   Planning Analytics Spreadsheet Services/TM1 Web within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.91.
+
+:   For more information on new and changed features in Planning Analytics Spreadsheet Services/TM1 Web, see [What's new in Planning Analytics Spreadsheet Services](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=web-2091-feature-updates-october-30-2023). To see which issues were fixed in this Planning Analytics Spreadsheet Services update, review the [Planning Analytics Spreadsheet Services 2.0.91 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_spreadsheet_services_2091_sc.pdf).
+
+Planning Analytics Engine update
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} is version 12.3.4. To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.3.4 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_1234.pdf).
 
 ## 05 October 2023
 {: #planning-analytics-oct0523}
