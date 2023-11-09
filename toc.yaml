@@ -33,6 +33,7 @@ toc:
             - adding_an_environment.md
             - database_creation_resource_consumption.md
             - egress_ip_addresses.md
+            - api_key_authentication_mcsp.md
       - topicgroup:
           label: Enhancing security
           topics:
