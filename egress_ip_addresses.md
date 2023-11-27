@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2023
-lastupdated: "2023-10-30"
+lastupdated: "2023-11-27"
 
 keywords:
 subcollection: planning-analytics
@@ -24,7 +24,7 @@ Table 1 documents the egress IP addresses by region:
 
 | Region             | IP Addresses       |
 |-------------------|------------|
-| Ohio              | 3.135.114.169  \n 18.116.216.50  \n 52.14.102.57|
+| Ohio              | 3.135.114.169  \n 18.116.216.50  \n 52.14.102.157|
 | Frankfurt         | 3.68.1.94  \n 18.158.43.41  \n 18.159.169.10| 
 | Sydny             | 3.105.44.155  \n 13.54.96.230  \n 52.63.210.127|
 {: caption="Table 1. Egress IP addresses" caption-side="bottom"}
