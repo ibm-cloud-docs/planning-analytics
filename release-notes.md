@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-12-06"
+lastupdated: "2023-12-11"
 
 keywords: Planning Analytics release notes
 
