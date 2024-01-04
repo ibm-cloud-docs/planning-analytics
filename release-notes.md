@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2023
-lastupdated: "2023-12-11"
+  years: 2024
+lastupdated: "2024-01-04"
 
 keywords: Planning Analytics release notes
 
@@ -49,6 +49,15 @@ Because this content is single-sourced and pulled into the Status UI, you can on
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
 
+## 21 December 2023
+{: #planning-analytics-dec2123}
+{: release-note}
+
+Planning Analytics Engine update
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.3.7. 
+
+:   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.3.7 fix list](https://www.ibm.com/support/pages/system/files/inline-files/IBM%20Planning%20Analytics%20Engine%2012.3.7%20Fix%20List.pdf).
+
 ## 11 December 2023
 {: #planning-analytics-dec1123}
 {: release-note}
@@ -71,7 +80,7 @@ Planning Analytics Spreadsheet Services update
 Planning Analytics Engine update
 :   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.3.5. 
 
-:   For more information on new and changed features in Planning Analytics Engine, see [What's new in Planning Analytics Engine](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=engine-1235-whats-new-december-11-2023). To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.3.5 fix list](https://www.ibm.com/support/pages/ibm-planning-analytics-20-fix-lists#anchor5).
+:   For more information on new and changed features in Planning Analytics Engine, see [What's new in Planning Analytics Engine](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=engine-1235-whats-new-december-11-2023). To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.3.5 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_engine_1235.pdf).
 
 ## 30 October 2023
 {: #planning-analytics-oct3023}
