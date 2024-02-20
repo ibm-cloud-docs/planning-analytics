@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-01-04"
+lastupdated: "2024-02-20"
 
 keywords: Planning Analytics release notes
 
@@ -48,6 +48,42 @@ Use a definition list to highlight each item covered in the release. Each entry 
 Because this content is single-sourced and pulled into the Status UI, you can only include the following markup in your definition list entries: paragraph, ordered list item, unordered list item, code phrase, links, keyrefs, bold, and italics. Any other markup is not supported.
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
+
+## 20 February 2024
+{: #planning-analytics-feb2024}
+{: release-note}
+
+Planning Analytics Workspace update
+:   Planning Analytics Workspace within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.93.
+
+:   For more information on new and changed features in Planning Analytics Workspace, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipaw-2093-whats-new-february-20-2024). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.93 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2093_sc-3.pdf).
+
+Planning Analytics for Microsoft Excel update
+:   Planning Analytics for Microsoft Excel within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.93.
+
+:   For more information on new and changed features in Planning Analytics for Microsoft Excel, see [What's new in Planning Analytics for Microsoft Excel](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipame-2093-feature-updates-february-9-2024). To see which issues were fixed in this Planning Analytics for Microsoft Excel update, review the [Planning Analytics for Microsoft Excel 2.0.93 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_for_msexcel_2093_sc%20.pdf).
+
+Planning Analytics Spreadsheet Services update
+:   Planning Analytics Spreadsheet Services/TM1 Web within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.93.
+
+:   For more information on new and changed features in Planning Analytics Spreadsheet Services/TM1 Web, see [What's new in Planning Analytics Spreadsheet Services](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnitw-2093-feature-updates-february-9-2024). To see which issues were fixed in this Planning Analytics Spreadsheet Services update, review the [Planning Analytics Spreadsheet Services 2.0.93 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_spreadsheet_services_2093_sc.pdf).
+
+Planning Analytics Engine update
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.3.8. 
+
+:   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.3.8 fix list](https://www.ibm.com/support/pages/ibm-planning-analytics-20-fix-lists#anchor4).
+
+Improved availability of manual database backups in Planning Analytics Workspace on Planning Analytics as a Service
+:   A new location for manual database backups in Planning Analytics Workspace on Planning Analytics as a Service makes it easier to access and use backups.
+
+:   Prior to Planning Analytics Workspace 2.0.93, manual database backups were stored in the .backupsets directory of File Manager on the Modeling Workbench, which is within the Planning Analytics Workspace database. This location made it impossible to access manual backups when the database was unavailable.
+
+:   Conversely, automated database backups were stored to a location external to the database, which remains accessible even when the associated Planning Analytics Workspace database is unavailable.
+
+:   As of Planning Analytics Workspace 2.0.93, both manual and automated database backups in Planning Analytics Workspace on Planning Analytics as a Service are stored in a location external to the database. All manual backups created in Planning Analytics Workspace 2.0.93 or later and all automated backups appear on the database Backups tab, regardless of the current state of the database.
+
+:   This change means that manual backups created prior to Planning Analytics Workspace 2.0.93 and stored in File Manager no longer appear on the Backups tab. You can, however, continue to access any such backups directly through File Manager.
+
 
 ## 21 December 2023
 {: #planning-analytics-dec2123}
