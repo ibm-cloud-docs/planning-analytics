@@ -29,3 +29,11 @@ Table 1 documents the egress IP addresses by region:
 | Sydney             | 3.105.44.155  \n 13.54.96.230  \n 52.63.210.127|
 {: caption="Table 1. Egress IP addresses" caption-side="bottom"}
 
+Table 2 documents the egress IP addresses for {{site.data.keyword.PA_SaaS_short}} on MCSP by region:
+
+| Region             | IP Addresses       |
+|-------------------|------------|
+| us-east-1            | 3.224.15.70  \n 50.19.228.111  \n 52.45.46.218|
+| eu-central-1         | 18.156.189.119  \n 3.78.118.23  \n 35.157.50.137| 
+| ap-southeast-2       | 3.25.4.210  \n 3.104.192.243  \n 54.79.240.176|
+{: caption="Table 2. Egress IP addresses - MCSP" caption-side="bottom"}
