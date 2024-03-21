@@ -49,6 +49,30 @@ Because this content is single-sourced and pulled into the Status UI, you can on
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
 
+## 19 March 2024
+{: #planning-analytics-mar2024}
+{: release-note}
+
+Planning Analytics Workspace update
+:   Planning Analytics Workspace within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.94.
+
+:   For more information on new and changed features in Planning Analytics Workspace, see [What's new in Planning Analytics Workspace](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipaw-2094-whats-new-march-20-2024). To see which issues were fixed in this Planning Analytics Workspace update, review the [Planning Analytics Workspace 2.0.94 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_workspace_2094_sc.pdf).
+
+Planning Analytics for Microsoft Excel update
+:   Planning Analytics for Microsoft Excel within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.94.
+
+:   For more information on new and changed features in Planning Analytics for Microsoft Excel, see [What's new in Planning Analytics for Microsoft Excel](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnipame-2094-feature-updates-march-12-2024). To see which issues were fixed in this Planning Analytics for Microsoft Excel update, review the [Planning Analytics for Microsoft Excel 2.0.94 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_for_msexcel_2094_sc.pdf).
+
+Planning Analytics Spreadsheet Services update
+:   Planning Analytics Spreadsheet Services/TM1 Web within {{site.data.keyword.PA_SaaS_short}} has been updated to version 2.0.94.
+
+:   For more information on new and changed features in Planning Analytics Spreadsheet Services/TM1 Web, see [What's new in Planning Analytics Spreadsheet Services](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=wnitw-2094-feature-updates-march-12-2024). To see which issues were fixed in this Planning Analytics Spreadsheet Services update, review the [Planning Analytics Spreadsheet Services 2.0.94 fix list](https://www.ibm.com/support/pages/system/files/inline-files/ibm_fixlist_planning_analytics_spreadsheet_services_2094_sc.pdf).
+
+Planning Analytics Engine update
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.3.9. 
+
+:   To see which issues were fixed in this Planning Analytics Engine update, review the [Planning Analytics Engine 12.3.9 fix list](https://www.ibm.com/support/pages/ibm-planning-analytics-20-fix-lists#anchor4).
+
 ## 20 February 2024
 {: #planning-analytics-feb2024}
 {: release-note}
