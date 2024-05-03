@@ -49,6 +49,15 @@ Because this content is single-sourced and pulled into the Status UI, you can on
 
 For guidance on what to include on this page, review [Release notes guidance](https://test.cloud.ibm.com/docs/writing?topic=writing-releasenotes). -->
 
+## 01 May 2024
+{: #planning-analytics-may0124}
+{: release-note}
+
+Planning Analytics Engine update
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.3.13. 
+
+:   This update does not include any documented fixes.
+
 ## 10 April 2024
 {: #planning-analytics-apr1024}
 {: release-note}
