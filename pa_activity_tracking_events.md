@@ -46,17 +46,6 @@ The following table lists the actions that generate an event for managing servic
 | `planning-analytics.key.delete` | An event is generated when an API key that is associated with a service instance is deleted from the *Service credentials* section of the service instance UI. |
 {: caption="Table 2. Actions that generate service credentials events" caption-side="bottom"}
 
-## List of service events
-
-The following table lists the {{site.data.keyword.PA_SaaS_short}} actions that generate a service event:
-
-| Action             | Description      |
-|--------------------|------------------|
-| `planning-analytics.user.login` | An event is generated when a user logs into the Planning Analytics Workspace instance.   |
-| `planning-analytics.user.logout` | An event is generated when a user logs out of the Planning Analytics Workspace instance.   |
-| `planning-analytics.user-environment.switch` | An event is generated when a user switches to a different Planning Analytics Workspace environment.   |
-{: caption="Table 3. Actions that generate service events" caption-side="bottom"}
-
 ## List of management events
 {: #at_actions}
 
@@ -64,15 +53,18 @@ The following table lists the {{site.data.keyword.PA_SaaS_short}} actions that g
 
 | Action             | Description      |
 |--------------------|------------------|
-| `planning-analytics.user.added` | An event is generated when a user is added to the planning analytics workspace instance.   |
-| `planning-analytics.user.deleted` | An event is generated when a user is deleted from the planning analytics workspace instance.   |
-| `planning-analytics.user.updated` | An event is generated when a user is updated in the planning analytics workspace instance.   |
 | `planning-analytics.group.added` | An event is generated when a group is added to the planning analytics workspace instance.   |
 | `planning-analytics.group.deleted` | An event is generated when a group is deleted from the planning analytics workspace instance.  |
 | `planning-analytics.group.updated` | An event is generated when the membership of a group is updated in the planning analytics workspace instance.   |
+| `planning-analytics.user.added` | An event is generated when a user is added to the planning analytics workspace instance.   |
+| `planning-analytics.user.deleted` | An event is generated when a user is deleted from the planning analytics workspace instance.   |
+| `planning-analytics.user.login` | An event is generated when a user logs into the Planning Analytics Workspace instance.   |
+| `planning-analytics.user.logout` | An event is generated when a user logs out of the Planning Analytics Workspace instance.   |
+| `planning-analytics.user-environment.switch` | An event is generated when a user switches to a different Planning Analytics Workspace environment.   |
+| `planning-analytics.user.updated` | An event is generated when a user is updated in the planning analytics workspace instance.   |
 | `planning-analytics.tm1.create` | An event is generated when you create a tm1 database.  |
 | `planning-analytics.tm1.start` | An event is generated when you start a tm1 database.  |
-{: caption="Table 4. Actions that generate management events" caption-side="bottom"}
+{: caption="Table 3. Actions that generate management events" caption-side="bottom"}
 
 ## List of data events
 {: #at_actions_data}
@@ -81,11 +73,11 @@ The following table lists the {{site.data.keyword.PA_SaaS_short}} actions that g
 
 | Action             | Description      |
 |--------------------|------------------|
+| `planning-analytics.content.acl.modified` | An event is generated when access control to a planning analytics workspace object is modified.  |
 | `planning-analytics.content.created` | An event is generated when a planning analytics workspace object is created.  |
 | `planning-analytics.content.deleted` | An event is generated when a planning analytics workspace object is deleted.   |
 | `planning-analytics.content.moved` | An event is generated when a planning analytics workspace object is moved.   |
-| `planning-analytics.content.acl.modified` | An event is generated when access control to a planning analytics workspace object is modified.  |
-{: caption="Table 5. Actions that generate data events" caption-side="bottom"}
+{: caption="Table 4. Actions that generate data events" caption-side="bottom"}
 
 ## Viewing events
 {: #at_ui}
