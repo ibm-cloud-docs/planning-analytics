@@ -42,16 +42,14 @@ To use  the ODBCServiceRoot configuration parameter to specity the location of t
 
 6. Enter the URL provided by the ODBC Data Connector in the **ODBCServiceRoot parameter** text box.
 
-<!-- What URL? -->
 
-<!-- ![Alt text](images/PA_SasS_on_AWS_ODBC_connectivity_2.png) -->
 
-<!-- does this make the last photo irrelevant? Does 'at this time' refer to the beta? -->
-<!-- The ODBCServiceRoot example URL with username and password. We should explain that the username and password will not always be required (post beta). We should also note the we only currently support a single ODBCServiceRoot URL at this point. You can only have a single ODBCIS per TM1 database at this time. If you wish to test multiple ODBCIS deployments you will need one TM1 database per ODBCIS.  -->
 
-<!-- -ODBCIS must be configured with TLS using a well known certificate authority. The TM1 database will be unable to connect with ODBCIS if you are using your own certificate authority certs (i.e you generated your own Root and Intermediate certificates for signing the certificated used for ODBCIS).  A well-known certificate would be any certificate that your web browser would trust by default.
 
--The username and password that is used in the Turbo Integrator process is for the connection to ODBCIS (matches the client credentials defined in ODBCIS) and not the ODBC database username and password. The database username and password is stored in the ODBCIS configuration -->
+
+
+
+
 
 For more information on using the Planning Analytics ODBC Data Connector to make on-prem data available to the Planning Analytics Engine in Planning Analytics as a Service, see [Using the IBM® Planning Analytics Data Connector](https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=engine-using-planning-analytics-odbc-data-connector).
 

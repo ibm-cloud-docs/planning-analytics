@@ -41,9 +41,4 @@ Administrators can see all applications and plans on the Home page, regardless o
 
   A plan contains assets that are grouped in steps. These steps can represent discrete tasks or contributions that must be completed in a planning or budgeting process. Each step in a plan must be completed by contributing data to the books, views, and websheets in the step.
 
-<!---
-## Next steps
-{: #anchor_value}
 
-What's the single thing the user needs to do next? Think "guided journey." Either provide information that leads the user to production use,for example HA, how to make a service secure, or how to connect to on-premise data. Or you can point the user to another tutorial. Give a choice between two options max._
---->

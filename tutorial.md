@@ -22,7 +22,7 @@ completion-time: 25m
 {:note: .note}
 {:external: target="_blank" .external}
 {:step: .step}
-<!-- {:step: data-tutorial-type='step'} -->
+
 
 # Create a story, exploration, data module, and report
 {: #tutorial-cognosanalytics}
@@ -35,17 +35,7 @@ In the following tutorials, use {{site.data.keyword.cognosanalytics_full}} (Expe
 
 For more tutorials, videos, and hands-on labs, see [IBM Demos: Cognos Analytics](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics/).
 
-<!-- It's recommended to include an architectural diagram that shows how the services that are used in this tutorial interact. SVG is the recommended format. If you include a diagram, include a brief text-based description of the workflow shown in the diagram, using active voice to describe the workflow. This makes the content more searchable and improves accessibility. 
-hello
-![Architectural diagram](images/image.svg)
-{: figure caption="Figure 1. A diagram that shows the architecture for my tutorial."}
 
-The pipeline that you create has the following architecture:
-1. Workflow step 1
-1. Workflow step 2
-1. Workflow step 3
-1. Workflow step 4
--->
 
 ## Creating a story
 {: #create_story}

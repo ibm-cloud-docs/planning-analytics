@@ -12,15 +12,14 @@ subcollection: planning-analytics
 
 {{site.data.keyword.attribute-definition-list}}
 
-<!--Name your file `bc-dr.md` and include it in the **Reference** nav group in your `toc.yaml` file.-->
+
 
 # Understanding business continuity and disaster recovery for {{site.data.keyword.PA_SaaS_short}}
 {: #bc-dr}
 
-<!-- The title of your H1 should be Understanding business continuity and disaster recover for _service-name_, where _service-name_ is the non-trademarked short version keyref. Include your service name as a search keyword at the top of your Markdown file. See the example keywords above. -->
 
-<!-- The short description should be a single, concise paragraph that contains one or two sentences and no more than 50 words. Summarize your offering's strategy for BCDR. The following is a suggested short description._
-{: shortdesc} -->
+
+
 
 [Disaster recovery](#x2113280){: term} involves a set of policies, tools, and procedures for returning a system, an application, or an entire data center to full operation after a catastrophic interruption. It includes procedures for copying and storing an installed system's essential data in a secure location, and for recovering that data to restore normalcy of operation.
 {: shortdesc}

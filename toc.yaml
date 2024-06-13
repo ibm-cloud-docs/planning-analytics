@@ -10,14 +10,12 @@ toc:
     path: planning-analytics
     label: Planning Analytics
     service-name: planning-analytics
-
   entries:
   - navgroup:
       id: learn
       topics:
       - about.md
       - release-notes.md
-
   - navgroup:
       id: howto
       topics:
@@ -57,7 +55,6 @@ toc:
             - explore_scorecards.md
             - model_in_paw.md
             - visualizations_in_pa.md
-
   - navgroup:
       id: reference
       topics:
@@ -65,14 +62,12 @@ toc:
       - link:
             label: TM1 REST API reference
             href: https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=cloud-tm1-rest-api
-
   - navgroup:
       id: tutorial
       topics:
       - link:
             label: "IBM Demos: Tutorials, videos, and hands-on labs"
             href: https://www.ibm.com/products/planning-analytics
-
   - navgroup:
       id: help
       topics:

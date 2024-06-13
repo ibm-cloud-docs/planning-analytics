@@ -2,7 +2,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-04-04"
+lastupdated: "2023-03-12"
 
 keywords: logging, log analysis
 
@@ -45,6 +45,6 @@ Table 1 outlines the fields that are included in each log record:
 | `Message Level`   | Required   | Severity level of the message being reported: DEBUG, INFO, WARN, ERROR, or FATAL |
 | `Date and Time`   | Required   | Date and time the message was logged, reported in the format: yyyy-mm-dd hh:mm.ss,millisecond.|
 | `messageID`       | Required   | ID of the log that is generated. |
-| `TM1 Logger Name` | Required   | Name of the Planning Analytics sub-component that generated the message or activity. |
+| `TM1 Logger Name` | Required   | Name of the Planning Analytics component that generated the message or activity. |
 | `Message Text`    | Required   | Pre-defined text message that describes the error or activity being reported. |
 {: caption="Table 1. Log record fields" caption-side="bottom"}

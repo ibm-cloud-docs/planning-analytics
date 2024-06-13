@@ -21,7 +21,7 @@ content-type: howto
 {:external: target="_blank" .external}
 {:step: data-tutorial-type='step'}
 
-<!-- Re-word steps in this topic? -->
+
 
 # Establishing API connectivity for {{site.data.keyword.PA_SaaS_short}}
 {: #api_connectivity}
