@@ -96,9 +96,4 @@ To delete a TM1 database, use the self-service delete function in Planning Analy
 
 **Note:** The self-service Rename function is not available for TM1 databases. You need to open a support ticket if you want to rename the database.
 
-<!---
-## Next steps
-{: #anchor_value}
 
-What's the single thing the user needs to do next? Think "guided journey." Either provide information that leads the user to production use, for example HA, how to make a service secure, or how to connect to on-premise data. Or you can point the user to another tutorial. Give a choice between two options max._
---->

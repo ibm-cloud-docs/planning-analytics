@@ -66,8 +66,7 @@ To invite users using IAM into your IBM Cloud account, complete the following st
 
 The user who created the {{site.data.keyword.PA_SaaS_full}} instance from the IBM Cloud Catalog is given the administrator role in Planning Analytics Workspace by default and can log in to the workspace. This user is also given the environment administrator role, which allows them to create and manage additional environments within the service instance.
 
-<!-- Need more information on how to add the user manually
-Should the instructions outline how users can be added through the import to .csv files? -->
+
 
 Once the administrator is logged into Planning Analytics Workspace, each user that has been invited into IAM must now also be invited into Planning Analytics Workspace and assigned roles though Planning Analytics Administration.
 
@@ -88,8 +87,4 @@ Once the administrator is logged into Planning Analytics Workspace, each user th
 If a user who has been invited in IAM is not added to Planning Analytics Workspace, they receive a message instructing them to contact their administrator when attempting to access Planning Analytics Workspace. Adding them to Planning Analytics Workspace will resolve the issue.
 {: note}
 
-<!--When you send an invitation, the user receives an emailed invitation indicating the email address of the administrator who sent the invitation, as well as the account associated with the invitation.
 
-The invitation is valid for 28 days. A user cannot access Planning Analytics Workspace if they do not accept the invitation. If the user declines the invitation or does not accept within 28 days, the invitation is revoked and you must send a new invitation to grant access to the user.
-
-Note that invitation and confirmation emails come from several different IBM systems and email accounts. Tell your users to expect these emails.-->
