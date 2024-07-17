@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024
-lastupdated: "2024-05-28"
+lastupdated: "2024-07-16"
 
 keywords: Planning Analytics release notes
 
@@ -24,6 +24,15 @@ Use these release notes to learn about the latest updates to {{site.data.keyword
 {: shortdesc}
 
 
+
+## 16 July 2024
+{: #planning-analytics-jul1624}
+{: release-note}
+
+Planning Analytics Engine update
+:   Planning Analytics Engine within {{site.data.keyword.PA_SaaS_short}} has been updated to version 12.4. 
+
+:   This update does not include any documented fixes.
 
 ## 23 May 2024
 {: #planning-analytics-may2024}
